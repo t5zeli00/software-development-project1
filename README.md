@@ -3,7 +3,7 @@
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
 
 ## Development
-Run `nmp start` in the command line for a dev server. You have to be inside an `angular-src` project folder and run `ng serve` command in order to run a client.  Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve` command in order to run a client.  Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
