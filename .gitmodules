@@ -1,0 +1,3 @@
+[submodule "angular-src"]
+	path = angular-src
+	url = git://github.com/t5zeli00/software-development-project1.git
