@@ -6,7 +6,7 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 
 Run `npm install` command in order to install node-modules package.
 
-## Development
+# Development
 Run `ng serve` command in order to run a client.  Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
